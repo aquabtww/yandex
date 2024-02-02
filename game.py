@@ -62,5 +62,5 @@ class Game:
         self.run_game()
 
 
-game = Game((600, 600))
+game = Game((1400, 900))
 game.run()
